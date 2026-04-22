@@ -71,17 +71,7 @@ pip install pandas numpy matplotlib scipy pymannkendall
 
 ```
 repo/
-├── data/                          
-├── scripts/
-│   ├── arstidarsveifla.py        
-│   ├── grunnvatn.py               
-│   ├── recession.py              
-│   ├── grunnliking.py             
-│   ├── langislina.py              
-│   ├── flodasveifla.py            
-│   ├── flodagreining.py           
-│   ├── leitnigreining.py          
-│   └── flodaatburdur.py           
+├── data/                                   
 ├── figures/
 │   ├── arstidarsveifla.png        
 │   ├── grunnvatn.png              
@@ -94,7 +84,17 @@ repo/
 │   ├── leitnigreining.png         
 │   ├── leitnigreining_vetur.png   
 │   ├── leitnigreining_sumar.png   
-│   └── flodatburður.png          
+│   └── flodatburður.png
+├── scripts/
+│   ├── arstidarsveifla.py        
+│   ├── grunnvatn.py               
+│   ├── recession.py              
+│   ├── grunnliking.py             
+│   ├── langislina.py              
+│   ├── flodasveifla.py            
+│   ├── flodagreining.py           
+│   ├── leitnigreining.py          
+│   └── flodaatburdur.py        
 └── README.md
 ```
 
